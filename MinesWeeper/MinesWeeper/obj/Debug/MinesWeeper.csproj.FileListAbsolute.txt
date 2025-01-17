@@ -1,0 +1,11 @@
+C:\Users\abdullah\source\repos\MinesWeeper\MinesWeeper\bin\Debug\MinesWeeper.exe.config
+C:\Users\abdullah\source\repos\MinesWeeper\MinesWeeper\bin\Debug\MinesWeeper.exe
+C:\Users\abdullah\source\repos\MinesWeeper\MinesWeeper\bin\Debug\MinesWeeper.pdb
+C:\Users\abdullah\source\repos\MinesWeeper\MinesWeeper\obj\Debug\MinesWeeper.csproj.AssemblyReference.cache
+C:\Users\abdullah\source\repos\MinesWeeper\MinesWeeper\obj\Debug\MinesWeeper.Form1.resources
+C:\Users\abdullah\source\repos\MinesWeeper\MinesWeeper\obj\Debug\MinesWeeper.Properties.Resources.resources
+C:\Users\abdullah\source\repos\MinesWeeper\MinesWeeper\obj\Debug\MinesWeeper.csproj.GenerateResource.cache
+C:\Users\abdullah\source\repos\MinesWeeper\MinesWeeper\obj\Debug\MinesWeeper.csproj.CoreCompileInputs.cache
+C:\Users\abdullah\source\repos\MinesWeeper\MinesWeeper\obj\Debug\MinesWeeper.exe
+C:\Users\abdullah\source\repos\MinesWeeper\MinesWeeper\obj\Debug\MinesWeeper.pdb
+C:\Users\abdullah\source\repos\MinesWeeper\MinesWeeper\obj\Debug\MinesWeeper.Form2.resources
